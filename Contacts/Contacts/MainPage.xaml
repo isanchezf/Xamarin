@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Contacts.MainPage"
+             xmlns:viewModels="clr-namespace:Contacts.ViewModels;assembly=Contacts">
+    <ContentPage.BindingContext>
+        <viewModels:AddContactViewModel></viewModels:AddContactViewModel>
+    </ContentPage.BindingContext>
+
+	<StackLayout Spacing="10" Padding="10">
+        <Label Text="Name"></Label>
+        <Entry Text="{Binding Name}" Placeholder="Full Name"></Entry>
+	    <Label Text="Website"></Label>
+	    <Entry Text="{Binding Website}" Placeholder="Your website"></Entry>
+        <StackLayout Orientation="Horizontal" Spacing="10">
+            <Label Text="Best Friend?"></Label>
+            <Switch IsToggled="{Binding BestFriend}"></Switch>
+        </StackLayout>
+        <Label Text="{Binding DisplayMessage}"></Label>
+        <Button Text="Open Website" Command="{Binding LaunchWebSiteCommand}" ></Button>
+        <Button Text="Save Contact" Command="{Binding SaveContactCommand}"></Button>
+        <ActivityIndicator IsRunning="{Binding IsBusy}"></ActivityIndicator>
+	</StackLayout>
+
+</ContentPage>

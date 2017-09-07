@@ -1,0 +1,16 @@
+E:\Proyectos\Xamarin\Ejemplos\MVVM\Contacts\Contacts\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
+E:\Proyectos\Xamarin\Ejemplos\MVVM\Contacts\Contacts\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+E:\Proyectos\Xamarin\Ejemplos\MVVM\Contacts\Contacts\Contacts\obj\Debug\Contacts.MainPage.xaml.g.cs
+E:\Proyectos\Xamarin\Ejemplos\MVVM\Contacts\Contacts\Contacts\obj\Debug\Contacts.App.xaml.g.cs
+E:\Proyectos\Xamarin\Ejemplos\MVVM\Contacts\Contacts\Contacts\bin\Debug\Contacts.dll
+E:\Proyectos\Xamarin\Ejemplos\MVVM\Contacts\Contacts\Contacts\bin\Debug\Contacts.pdb
+E:\Proyectos\Xamarin\Ejemplos\MVVM\Contacts\Contacts\Contacts\bin\Debug\Xamarin.Forms.Core.dll
+E:\Proyectos\Xamarin\Ejemplos\MVVM\Contacts\Contacts\Contacts\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Proyectos\Xamarin\Ejemplos\MVVM\Contacts\Contacts\Contacts\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Proyectos\Xamarin\Ejemplos\MVVM\Contacts\Contacts\Contacts\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Proyectos\Xamarin\Ejemplos\MVVM\Contacts\Contacts\Contacts\bin\Debug\Xamarin.Forms.Core.xml
+E:\Proyectos\Xamarin\Ejemplos\MVVM\Contacts\Contacts\Contacts\bin\Debug\Xamarin.Forms.Platform.pdb
+E:\Proyectos\Xamarin\Ejemplos\MVVM\Contacts\Contacts\Contacts\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Proyectos\Xamarin\Ejemplos\MVVM\Contacts\Contacts\Contacts\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Proyectos\Xamarin\Ejemplos\MVVM\Contacts\Contacts\Contacts\obj\Debug\Contacts.dll
+E:\Proyectos\Xamarin\Ejemplos\MVVM\Contacts\Contacts\Contacts\obj\Debug\Contacts.pdb
